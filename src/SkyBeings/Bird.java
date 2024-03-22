@@ -1,5 +1,7 @@
 package SkyBeings;
 
+import BeingsOfTheEarth.LivingBeing;
+
 public class Bird extends LivingBeing implements SkyBeing {
     @Override
     public void born() {

@@ -1,4 +1,5 @@
 import BeingsOfTheEarth.Human;
+import BeingsOfTheEarth.LivingBeing;
 import SkyBeings.SkyBeing;
 
 
@@ -13,28 +14,40 @@ public class Main {
         ((SkyBeing) human).fly(); // This works because Human implements SkyBeing
         ((SkyBeing) human).changeDimension(); // This works because Human implements SkyBeing
 
-        // Create another living being (Bird)
+
         LivingBeing bird = new LivingBeing() {
             @Override
-            void born() {
+            public void born() {
 
             }
 
             @Override
-            void grow() {
+            public void grow() {
 
             }
 
             @Override
-            void reproduce() {
+            public void reproduce() {
 
             }
 
             @Override
-            void die() {
+            public void die() {
+
+            }
+
+            @Override
+            public void fly() {
+
+            }
+
+            @Override
+            public void changeDimension() {
 
             }
         };
+
+
         bird.born();
         bird.grow();
         bird.reproduce();

@@ -5,11 +5,6 @@ public interface EarthBeing {
     void respawn();
     void die();
 
-    // Implementing method from LivingBeing abstract class
+    // Implementing method from BeingsOfTheEarth.LivingBeing abstract class
     void reproduce();
-
-    // Implementing methods from SkyBeing interface
-    void fly();
-
-    void changeDimension();
 }

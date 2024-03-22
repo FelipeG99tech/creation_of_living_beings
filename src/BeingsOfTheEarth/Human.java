@@ -1,5 +1,5 @@
 package BeingsOfTheEarth;
-import Beings.LivingBeing;
+
 
 public class Human extends LivingBeing implements EarthBeing {
     @Override
@@ -22,7 +22,7 @@ public class Human extends LivingBeing implements EarthBeing {
         System.out.println("Human dies on Earth");
     }
 
-    // Implementing method from LivingBeing abstract class
+    // Implementing method from BeingsOfTheEarth.LivingBeing abstract class
     @Override
     public void reproduce() {
         System.out.println("Human reproduces");
