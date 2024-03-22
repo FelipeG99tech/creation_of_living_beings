@@ -1,6 +1,6 @@
 <html>
 
-<h1 style="background-color:DodgerBlue;">
+<h1 style="background-color:DodgerBlue">
 PRACTICE #1  -- PROGRAMMING LANGUAGES </h1> 
 
 FULL NAME = FELIPE GOMEZ DAZA
