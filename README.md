@@ -3,31 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Project Title</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    color: #333;
-    background-color: #f7f7f7;
-    padding: 20px;
-  }
-  h1 {
-    font-size: 36px;
-    color: #007bff;
-    margin-bottom: 20px;
-  }
-  h2 {
-    font-size: 24px;
-    color: #28a745;
-    margin-bottom: 15px;
-  }
-  p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-</style>
-</head>
-<body>
+
 
 <h1>🌟 Project Title 🌟</h1>
 
