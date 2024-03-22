@@ -19,11 +19,7 @@
 <p>Compiler Version: JDK 21.0.1 </p>
 <p>IDE: Intellij </p>
 
-<h2>Setup</h2>
-<p>Provide any setup instructions or prerequisites here</p>
 
-<h2>Usage</h2>
-<p>Provide usage instructions here</p>
 
 <h2>License</h2>
 <p>EAFIT - SOFTWARE ENGINEERING</p>
