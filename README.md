@@ -12,7 +12,7 @@
 <ul>
   <li>FELIPE GOMEZ DAZA</li>
 </ul>
-<p>It involves [insert brief description of the project].</p>
+
 
 <h2>Development Environment</h2>
 <p>Language: Java </p>
