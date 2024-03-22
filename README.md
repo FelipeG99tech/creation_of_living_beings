@@ -15,9 +15,9 @@
 <p>It involves [insert brief description of the project].</p>
 
 <h2>Development Environment</h2>
-<p>Language: [insert programming language]</p>
-<p>Compiler Version: [insert version]</p>
-<p>IDE: [insert IDE used]</p>
+<p>Language: Java </p>
+<p>Compiler Version: JDK 21.0.1 </p>
+<p>IDE: Intellij </p>
 
 <h2>Setup</h2>
 <p>Provide any setup instructions or prerequisites here</p>
@@ -25,11 +25,8 @@
 <h2>Usage</h2>
 <p>Provide usage instructions here</p>
 
-<h2>Contribution</h2>
-<p>Specify how others can contribute to the project</p>
-
 <h2>License</h2>
-<p>Specify the project's license information</p>
+<p>EAFIT - SOFTWARE ENGINEERING</p>
 
 </body>
 </html>
