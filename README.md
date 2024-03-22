@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+
+<head>
+  hi
+</head>
+
 <html>
 <h1 style="background-color:DodgerBlue;">
 PRACTICE #1  -- PROGRAMMING LANGUAGES </h1> 
