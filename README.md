@@ -10,9 +10,7 @@
 <h2>Description</h2>
 <p>This project is a practice exercise developed by the following members:</p>
 <ul>
-  <li>Full Name 1</li>
-  <li>Full Name 2</li>
-  <li>Full Name 3</li>
+  <li>FELIPE GOMEZ DAZA</li>
 </ul>
 <p>It involves [insert brief description of the project].</p>
 
