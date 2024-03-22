@@ -1,2 +1,6 @@
-public interface Creator {
+import BeingsOfTheEarth.Human;
+
+interface Creator {
+    Human createLivingBeing();
 }
+
